@@ -1,0 +1,31 @@
+{
+  "name": "shoppu-crewjs",
+  "version": "0.1.0",
+  "description": "Easy way to get products from Indonesia Marketplaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramadani/shoppu-crewjs.git"
+  },
+  "keywords": [
+    "shop",
+    "marketplace",
+    "indonesia"
+  ],
+  "author": "Ramadani <email.ramadani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramadani/shoppu-crewjs/issues"
+  },
+  "homepage": "https://github.com/ramadani/shoppu-crewjs#readme",
+  "engines": {
+    "node": ">=6.11.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
